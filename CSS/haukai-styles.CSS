@@ -1,0 +1,38 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: white;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: #6699cc;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  /* Change the link color on hover */
+  li a:hover {
+    background-color: darkgrey;
+  }
+h1 {
+    background-color:white;
+}
+footer {
+  background-color:white;
+  color: #6699cc;
+}
+
+h2{
+  color: #6699cc;
+}
+p{
+  color: #6699cc;
+}
